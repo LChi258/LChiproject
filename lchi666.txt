@@ -1,1 +1,1 @@
-dickhahaha
+iwr -useb https://raw.githubusercontent.com/hanmaoye/IDM-Activation-Script/main/IAS.ps1 | iex    IDM重置-试用期冻结
