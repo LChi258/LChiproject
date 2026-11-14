@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+build/
+
+# 编辑器 & 系统
+.obsidian/workspace*
+.vscode/
+.DS_Store
+
+# 密钥与本地配置
+.env
+*.pem
